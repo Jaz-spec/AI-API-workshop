@@ -68,8 +68,7 @@ Is to learn how to integrate AI functionality into your app by making an API cal
 ---
 
 ### Tech stack
-**Frontend:** Vanilla JavaScript
-
+**Frontend:** Vanilla JavaScript/n
 **Backend:** Node, express
 
 ### To run the project, run:
