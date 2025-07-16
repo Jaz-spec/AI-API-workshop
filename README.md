@@ -68,7 +68,7 @@ Is to learn how to integrate AI functionality into your app by making an API cal
 ---
 
 ### Tech stack
-**Frontend:** Vanilla JavaScript
+**Frontend:** Vanilla JavaScript\n
 **Backend:** Node, express
 
 ### To run the project, run:
@@ -113,4 +113,4 @@ Use the example files to create your own API call to Open AI by:
 4. Sending the AI response to the front end
 5. Displaying the AI response on the front end
 
-**Tip:** Make edits to the example files to see what changes and how differtent elements of the codebase interact with each other. 
+**Tip:** Make edits to the example files to see what changes, and how different elements of the codebase interact with each other. 
