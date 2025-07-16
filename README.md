@@ -2,16 +2,19 @@
 ## Getting started 
 ### 1. Make sure you have Git installed
 Here are two sites that can help talk you through the download:
+
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 https://github.com/git-guides/install-git
 
 Check Git is installed by typing `git -v` OR `git --version`
+---
 
 ### 2. Clone the repository
 #### Option 1: in VS Code
 - Open VS Code
 - Open the folder you would like to store this project in
-- Open a up a terminal 
+- Open up a terminal 
 - Paste this in your terminal:
 ```
 git clone https://github.com/Jaz-spec/AI-API-workshop.git
@@ -28,10 +31,10 @@ git clone https://github.com/Jaz-spec/AI-API-workshop.git
 ```
 - `cd` to 'AI-API-workshop'
 - write `code .` to open the folder in VS Code
+---
 
 ### 3. Create a .env file
 In the root of your project create a new file and call it `.env`
 (root just means that it's not in any other folders)
 
-I will send you the API for OpenAI to paste into this file
-
+I will send you the API key for OpenAI to paste into this file
