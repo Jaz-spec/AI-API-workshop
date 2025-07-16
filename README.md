@@ -65,19 +65,23 @@ npm run dev
 ### The Aim of this workshop:
 Is to learn how to integrate AI functionality into your app by making an API call
 
-### Project setup and tech stack
-#### Tech stack
+---
+
+### Tech stack
 **Frontend:** Vanilla JavaScript
 **Backend:** Node, express
 
-#### To run the project, run:
+### To run the project, run:
 ```
 npm run dev
 ```
 Click on the localhost link in the terminal
 
-#### Project structure
+---
 
+### Project structure
+
+```
 ├── .github
 ├── .gitignore
 ├── README.md           -> workshop instructions
@@ -97,6 +101,7 @@ Click on the localhost link in the terminal
 ├── package-lock.json
 ├── package.json
 └── server.js           -> Entry point for the Node.js server
+```
 
 ---
 
