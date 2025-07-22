@@ -9,7 +9,7 @@ router.post('/chat', async (req, res) => {
     const { message } = req.body;
     console.log('Received message at /chat route in routes.js:', message);
     
-    // reponse from th AI API
+    // reponse from the AI API
     const response = await writeStory(message);
   res.json({ reply: response});
 });
